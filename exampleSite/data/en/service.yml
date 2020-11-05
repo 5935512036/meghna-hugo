@@ -5,12 +5,12 @@ service:
   service_item:
   - name: ห้องพักนักศึกษา
     icon: ti-world
-    content: "บริการห้องพักสำหรับนักศึกษาชายทั้งไทยและต่างชาติ\nทั้งหมด  192   ห้อง
-      \nห้องธรรม        168  ห้อง   \nห้องปรับอากาศ  24  ห้อง"
-  - name: Responsive Design
+    content: บริการห้องพักสำหรับนักศึกษาชายทั้งไทยและต่างชาติ  ทั้งหมด  192   ห้อง
+      ห้องธรรม        168  ห้อง   ห้องปรับอากาศ  24  ห้อง
+  - name: ห้องอ่านหนังสือ
     icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: บริการห้องอ่านหนังสือสำหรับนักศึกษา ม.อ.ภูเก็ต โดยจะเปิดใช้บริการช่วง
+      2 สัปดาห์ก่อนสอบ ในเวลา 9.00 น.  -  00.00 น.
   - name: Media &amp; Advertisement
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
