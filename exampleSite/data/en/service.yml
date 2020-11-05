@@ -11,10 +11,10 @@ service:
     icon: ti-layout
     content: บริการห้องอ่านหนังสือสำหรับนักศึกษา ม.อ.ภูเก็ต โดยจะเปิดใช้บริการช่วง
       2 สัปดาห์ก่อนสอบ ในเวลา 9.00 น.  -  00.00 น.
-  - name: Media &amp; Advertisement
+  - name: ห้องฟิตเนส
     icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: ห้องฟิตเนสเปิดให้บริการให้นักศึกษาสามารถมาออกกำลังกายโดยจะเปิดในช่วงเวลา   16.00  -  22.00
+      น.
   - name: Graphic Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
