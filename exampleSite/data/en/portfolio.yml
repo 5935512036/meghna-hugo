@@ -1,20 +1,13 @@
 ---
 portfolio:
   enable: true
-  title: Our Works
+  title: การส่งข้อมูล
   portfolio_item:
-  - name: ค่าไฟหอพัก
-    image: "/images/capture.PNG"
-    image_webp: "/images/capture.webp"
-    categories: []
-    content: สลิปค่าไฟประจำเดือน
-    link: www.google.com
-  - name: Sound system
+  - name: สลิปค่าไฟหอพัก
     image: images/portfolio/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
-    categories:
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    categories: []
+    content: ลิงค์กรอกข้อมูลการจ่ายค่าไฟ-ค่าน้ำ หอพักนักศึกษาชาย
     link: ''
   - name: Clock Product
     image: images/portfolio/portfolio-3.jpg
