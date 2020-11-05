@@ -21,13 +21,12 @@ portfolio:
     categories: []
     content: ลิงค์ลงทะเบียนการจองหอพัก หอพักนักศึกษาชาย
     link: ''
-  - name: Shopping Bag
+  - name: ตรวจสอบค่าไฟ
     image: images/portfolio/portfolio-5.jpg
     image_webp: images/portfolio/portfolio-5.webp
-    categories:
-    - design
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
+    categories: []
+    content: ลิงค์ตรวจสอบค่าน้ำ - ค่าไฟ ประจำเดือน
+    link: ''
   - name: Tag Design
     image: images/portfolio/portfolio-6.jpg
     image_webp: images/portfolio/portfolio-6.webp
