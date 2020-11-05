@@ -5,9 +5,8 @@ banner:
   bg_image: "/images/psu_en-s.png"
   icon: ''
   title: Psu Phuket  Male Dormitory
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
-    At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
+  content: หอพักนักศึกษาชาย มหาวิทยาลัยสงขลานครินทร์ วิทยาเขต ภูเก็ต เปิดให้บริการสำหรับนักศึกษาชายสำหรับพักอาศัยในหอพักของมหาวิทยาลัย
   button:
     enable: true
-    label: Explore Us
+    label: เข้าสู่เว็บ
     link: "#services"
