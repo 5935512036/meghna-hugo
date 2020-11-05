@@ -1,5 +1,5 @@
 baseURL = "https://examplesite.com"
-disableLanguages = ["HUGO_DISABLELANGUAGES=\"Fr\""]
+disableLanguages = ["disableLanguages = [\"Fr\"]"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
