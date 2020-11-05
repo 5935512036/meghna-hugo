@@ -7,7 +7,7 @@ portfolio:
     image: "/images/capture.PNG"
     image_webp: "/images/capture.webp"
     categories: []
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    content: สลิปค่าไฟประจำเดือน
     link: https://themefisher.com
   - name: Sound system
     image: images/portfolio/portfolio-2.jpg
